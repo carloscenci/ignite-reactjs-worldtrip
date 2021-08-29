@@ -1,4 +1,4 @@
-import { Grid, GridItem } from "@chakra-ui/layout";
+import { Grid, GridItem } from "@chakra-ui/react";
 import Caracteristic from "./Caracteristic";
 
 export default function Caracteristics() {
